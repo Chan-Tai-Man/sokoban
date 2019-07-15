@@ -1,8 +1,6 @@
 # 倉庫番 Sōkoban (pl. Magazynier)
-Gra została wykonana na przestrzeni lutego/marca 2013 roku (pierwsza klasa, technikum informatyczne) na zajęciach programowania dla zabicia czasu.
+Grę wykonałem na przestrzeni lutego/marca 2013 roku (pierwsza klasa, technikum informatyczne) na zajęciach programowania dla zabicia czasu. Wykorzystałem: WinCRT, sysutils, strutils, Graph.
 
-Skompilowano przy użyciu:
-https://www.freepascal.org/down/i386/win32.html
+Do kompilacji należy użyć: https://www.freepascal.org/down/i386/win32.html
 
-## Zdjęcia
 ![Okno z grą](https://smulewicz.pro/github-assets/sokoban.png)
