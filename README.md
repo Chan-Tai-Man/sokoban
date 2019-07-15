@@ -5,4 +5,4 @@ Skompilowano przy użyciu:
 https://www.freepascal.org/down/i386/win32.html
 
 ## Zdjęcia
-https://smulewicz.pro/github-assets/sokoban.png
+![Okno z grą](https://smulewicz.pro/github-assets/sokoban.png)
