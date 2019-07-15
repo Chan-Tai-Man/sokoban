@@ -1,4 +1,4 @@
-# 倉庫番 Sōkoban (pl. Dozorca magazynu)
+Sōkoban
 
 Gra, w której wcielamy się w dozorcę magazynu, którego celem jest przesunięcie skrzyń w odpowiednie miejsca.
 
