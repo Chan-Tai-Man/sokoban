@@ -1,7 +1,7 @@
 # Sōkoban
 
-Prototyp gry, w której wcielamy się w dozorcę magazynu. Naszym celem jest przesunięcie skrzyń w odpowiednie miejsca.
+Sōkoban clone, or rather its prototype. You're becoming a warehouse keeper, and your goal is to push all crates to storage locations.
 
-Wykonane na przestrzeni lutego i marca 2013 roku na zajęciach programowania. 
+It was made in between February and March 2013, if I remember well, on programming classes.
 
-Do kompilacji należy użyć: https://www.freepascal.org/down/i386/win32.html
+To compile it, you'll have to use this: https://www.freepascal.org/down/i386/win32.html
